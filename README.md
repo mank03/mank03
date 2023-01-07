@@ -8,8 +8,8 @@ I am interested in playing an active role in being involved with the community a
 
 I look forward to pursuing an exciting post-secondary career and eventually securing a rewarding profession in the automotive industry!
 
-## Check out my Personal Website 💻
-[link](https://www.example.com/my%20great%20page)
+## Check out my Personal Portfolio 💻
+[Vist Website Here](https://manu-konnurs-portfolio.webnode.page/)
 
 ## How to Reach Me 📫
 * Email: konnurmanu@gmail.com
