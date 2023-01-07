@@ -1,5 +1,8 @@
 # Hi, I'm Manu Konnur 👋
 
+![Student at University of Guelph-2](https://user-images.githubusercontent.com/66081005/211170738-9d55bd7c-2341-4203-b173-52a1d14d8918.png)
+
+
 <!--
 **mank03/mank03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
