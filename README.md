@@ -1,4 +1,4 @@
-# Hi, I'm Manu Konnur 👋
+# Hello, Welcome to my Profile 👋
 
 ![Student at University of Guelph-2](https://user-images.githubusercontent.com/66081005/211170738-9d55bd7c-2341-4203-b173-52a1d14d8918.png)
 
