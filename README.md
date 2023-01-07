@@ -6,11 +6,17 @@ I am a computer science student at the University of Guelph and aspire to be a s
 
 I am interested in playing an active role in being involved with the community and collaborate with others to bring a new approach to technology and innovation. Please feel free to get in touch with me via email at konnurmanu@gmail.com.
 
+I look forward to pursuing an exciting post-secondary career and eventually securing a rewarding profession in the automotive industry!
+
 ## Check out my Personal Website 💻
 [Click Here](https://www.google.com)
 
+## How to Reach Me 📫
+* Email: konnurmanu@gmail.com
+* Phone: (289)-233-7599
+* LinkedIn: https://www.linkedin.com/in/manu-konnur/
 
-I look forward to pursuing an exciting post-secondary career and eventually securing a rewarding profession in the automotive industry!
+
 <!--
 **mank03/mank03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
