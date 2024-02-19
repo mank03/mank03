@@ -2,7 +2,7 @@
 
 ![Student at University of Guelph-2](https://user-images.githubusercontent.com/66081005/211170738-9d55bd7c-2341-4203-b173-52a1d14d8918.png)
 
-I am a Computer Science student at the University of Guelph and aspire to be a software developer with ambitions to pursue a career in the automotive industry. My passion lies in developing artificial intelligence with the use of machine learning to help improve efficiencies and augment our human capabilities. I possess strong technical skills which enabled me to take on various leadership roles in the past. I also have an academic background in computing, business and economics.
+I am a Computer Science student at the University of Guelph and aspire to be a software developer. My passion lies in developing artificial intelligence with the use of machine learning to help improve efficiencies and augment our human capabilities. I possess strong technical skills which enabled me to take on various leadership roles in the past. I also have an academic background in computing, business and economics.
 
 I am interested in playing an active role in being involved with the community and collaborate with others to bring a new approach to technology and innovation. Please feel free to get in touch with me via email at konnurmanu@gmail.com.
 
